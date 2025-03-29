@@ -46,7 +46,7 @@ O código para este desafio está disponível no arquivo [`OperadorTernarioeIgua
     * Para qualquer outro valor, o acesso será negado e o pedido de entrada será repetido.
 
 💻 Exemplo de Execução:
-
+```java
 Nome de usuário: user123
 Acesso Negado!
 Nome de usuário: admin
