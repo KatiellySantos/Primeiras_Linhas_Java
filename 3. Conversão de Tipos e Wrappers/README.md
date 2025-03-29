@@ -12,7 +12,8 @@
 ---
 
 📂 **Onde Encontrar o Código**
-O código para este desafio está disponível no arquivo [`ConveersaoDeTiposEWrappers03.java`].
+O código para este desafio está disponível no arquivo [`ConveersaoDeTiposEWrappers.java`].
+
 ---
 
 🔧 **Ferramentas e Tecnologias**
@@ -24,7 +25,7 @@ O código para este desafio está disponível no arquivo [`ConveersaoDeTiposEWra
 
 ---
 
-📚 **Conceitos Aprendidos***
+📚 **Conceitos Aprendidos**
 - Conversão de valores de String para tipos numéricos (`Double.parseDouble()`).
 - Formatação de números com `printf()`.
 - Substituição de caracteres em strings com `replace()`.
@@ -34,13 +35,15 @@ O código para este desafio está disponível no arquivo [`ConveersaoDeTiposEWra
 
 🛠️ **Instruções para Execução**
 1. Certifique-se de ter o **Java Development Kit (JDK)** instalado.
-2. Baixe o código-fonte do arquivo [`ConveersaoDeTiposEWrappers03.java`].
+2. Baixe o código-fonte do arquivo [`ConveersaoDeTiposEWrappers.java`].
 3. Compile o programa utilizando o comando:
    ```bash
-   javac ConveersaoDeTiposEWrappers03.java
+   javac ConveersaoDeTiposEWrappers.java
 4. Execute o programa com:
-java ConveersaoDeTiposEWrappers03
-5. Insira um número decimal quando solicitado. O programa exibirá o dobro do valor com duas casas decimais.
-Digite um número: 2,5
-O dobro de 2.50 é 5.00
+`java ConveersaoDeTiposEWrappers`
+5. Insira um número decimal quando solicitado.
+- O programa exibirá o dobro do valor com duas casas decimais.
+  ```bash
+  Digite um número: 2,5
+  O dobro de 2.50 é 5.00
 
