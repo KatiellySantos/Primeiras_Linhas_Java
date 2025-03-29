@@ -41,9 +41,10 @@ O código para este desafio está disponível no arquivo [`TrabalhandocomVariave
    javac TrabalhandocomVariaveiseConstantes02.java
 4. Execute o programa com:
 java TrabalhandocomVariaveiseConstantes02
-5. Siga as instruções para inserir o nome, idade e altura quando solicitado. O programa exibirá uma mensagem personalizada no console.
-Nome: Maria
-Idade: 20
-Altura: 1,65
-Olá, Maria! você tem 20 anos e 1,65m de Altura.
+5. Siga as instruções para inserir o nome, idade e altura quando solicitado.
+- O programa exibirá uma mensagem personalizada no console.
+  * Nome: Maria
+  * Idade: 20
+  * Altura: 1,65
+  * Olá, Maria! você tem 20 anos e 1,65m de Altura.
 
