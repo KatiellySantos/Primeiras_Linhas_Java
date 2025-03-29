@@ -45,12 +45,12 @@ O código para este desafio está disponível no arquivo [`OperadoresAritmeticos
 4. Execute o programa com:
    java OperadoresAritmeticoseRelacionais
 5. Siga as instruções para:
-    * Inserir os dois números (substituindo vírgulas por pontos para números decimais).
-    * Escolher a operação matemática desejada (+, -, * ou /).
-    * Observar o resultado da operação e a comparação entre os números.
+   * Inserir os dois números (substituindo vírgulas por pontos para números decimais).
+   * Escolher a operação matemática desejada (+, -, * ou /).
+   * Observar o resultado da operação e a comparação entre os números.
 
 💻 Exemplo de Execução:
-
+```java
 Digite o 1ª Número: abc
 Entrada inválida. Por favor, digite apenas números.
 Digite o 1ª Número: 10
