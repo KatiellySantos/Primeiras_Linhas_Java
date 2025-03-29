@@ -44,6 +44,7 @@ O código para este desafio está disponível no arquivo [`TratamentodeErroscomI
    javac TratamentodeErroscomInputMismatchException.java
 4. Execute o programa com:
    java TratamentodeErroscomInputMismatchException
-5. Siga as instruções para inserir um número. O programa continuará pedindo até que uma entrada válida 
+5. Siga as instruções para inserir um número.
+- O programa continuará pedindo até que uma entrada válida 
 seja fornecida. Após isso, exibirá o dobro do número.
 
