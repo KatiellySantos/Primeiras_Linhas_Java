@@ -12,7 +12,7 @@
 ---
 
 📂 **Onde Encontrar o Código**
-O código para este desafio está disponível no arquivo [`TrabalhandocomVariaveiseConstantes02.java`].
+O código para este desafio está disponível no arquivo [`TrabalhandocomVariaveiseConstantes.java`].
 
 ---
 
@@ -35,16 +35,17 @@ O código para este desafio está disponível no arquivo [`TrabalhandocomVariave
 
 🛠️ **Instruções para Execução**
 1. Certifique-se de ter o **Java Development Kit (JDK)** instalado.
-2. Baixe o código-fonte do arquivo [`TrabalhandocomVariaveiseConstantes02.java`].
+2. Baixe o código-fonte do arquivo [`TrabalhandocomVariaveiseConstantes.java`].
 3. Compile o programa utilizando o comando:
    ```bash
-   javac TrabalhandocomVariaveiseConstantes02.java
+   javac TrabalhandocomVariaveiseConstantes.java
 4. Execute o programa com:
 java TrabalhandocomVariaveiseConstantes02
 5. Siga as instruções para inserir o nome, idade e altura quando solicitado.
 - O programa exibirá uma mensagem personalizada no console.
-  * Nome: Maria
-  * Idade: 20
-  * Altura: 1,65
-  * Olá, Maria! você tem 20 anos e 1,65m de Altura.
+  ```java
+  Nome: Maria
+  Idade: 20
+  Altura: 1,65
+  Olá, Maria! você tem 20 anos e 1,65m de Altura.
 
