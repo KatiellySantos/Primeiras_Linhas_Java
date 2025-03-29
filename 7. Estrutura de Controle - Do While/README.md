@@ -6,9 +6,9 @@
 
 🧩 **Funcionalidades**
 - Exibe um menu com três opções:
-  1. Ver a data e hora atual.
-  2. Exibir uma mensagem de saudação.
-  3. Sair do programa.
+  * Ver a data e hora atual.
+  * Exibir uma mensagem de saudação.
+  * Sair do programa.
 - Utiliza o loop `do-while` para garantir que o menu seja exibido ao menos uma vez.
 - Trabalha com datas utilizando as classes `LocalDateTime` e `DateTimeFormatter`.
 
@@ -44,12 +44,12 @@ O código para este desafio está disponível no arquivo [`EstruturadeControleDo
 4. Execute o programa com:
    java EstruturadeControleDoWhile
 5. Escolha uma das opções do menu para executar a funcionalidade correspondente:
-    1: Exibe a data e hora atual no formato dd-MM-yyyy HH:mm:ss.
-    2: Exibe uma mensagem de saudação.
-    3: Sai do programa.
+   * 1: Exibe a data e hora atual no formato `dd-MM-yyyy HH:mm:ss`.
+   * 2: Exibe uma mensagem de saudação.
+   * 3: Sai do programa.
 
 💻 Exemplo de Execução Menu:
-
+```java
 Escolha uma opção: 
 1 - Ver data atual
 2 - Mensagem de saudação
