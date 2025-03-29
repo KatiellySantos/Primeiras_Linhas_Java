@@ -43,7 +43,7 @@ O código para este desafio está disponível no arquivo [`ConveersaoDeTiposEWra
 `java ConveersaoDeTiposEWrappers`
 5. Insira um número decimal quando solicitado.
 - O programa exibirá o dobro do valor com duas casas decimais.
-  ```bash
+  ```java
   Digite um número: 2,5
   O dobro de 2.50 é 5.00
 
