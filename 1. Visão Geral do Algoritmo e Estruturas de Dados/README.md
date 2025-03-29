@@ -1,47 +1,51 @@
-# 🟢 Desafio: Par ou Ímpar
+# 📋 Desafio: Par ou Ímpar
 
-📄 Este programa solicita que o usuário insira um número inteiro e, em seguida, determina se o número é **par** ou **ímpar**. Ele utiliza conceitos básicos de Java, como entrada de dados, conversão de tipos e estruturas de controle condicionais.
-
----
-
-🚀 **Como o programa foi implementado**
-1. **Entrada de Dados:**
-   - O programa usa a classe `JOptionPane` para exibir uma interface gráfica solicitando que o usuário insira um número. 
-
-2. **Conversão de Tipos:**
-   - A entrada é capturada como uma string e convertida para um número inteiro usando `Integer.parseInt()`.
-
-3. **Lógica Condicional:**
-   - A lógica utiliza o operador `%` (módulo) para determinar se o número é divisível por 2:
-     - Se o resto for `0`, o número é classificado como **par**.
-     - Caso contrário, ele é classificado como **ímpar**.
-
-4. **Saída de Dados:**
-   - Os resultados são exibidos no console informando se o número é par ou ímpar.
+📝 Este programa solicita ao usuário que insira um número e verifica se ele é par ou ímpar. Ele utiliza a interface gráfica do **JOptionPane** para capturar a entrada, tornando a interação com o usuário simples e intuitiva.
 
 ---
 
-📂 **Localização do Código**
-O código completo deste desafio está disponível no arquivo [`ParOuImpar.java`].
+🧩 **Funcionalidades**
+- Solicita ao usuário que insira um número por meio de uma caixa de diálogo.
+- Converte a entrada do usuário (string) em um número inteiro.
+- Verifica se o número é par ou ímpar utilizando o operador de módulo (`%`).
+- Exibe o resultado no console indicando a paridade do número.
 
 ---
 
-🛠️ **Como executar o programa**
-1. Certifique-se de ter o **Java Development Kit (JDK)** instalado no seu computador.
-2. Navegue até a pasta onde está localizado o arquivo do código.
-3. Compile o programa no terminal com o comando:
+📂 **Onde Encontrar o Código**
+O código para este desafio está disponível no arquivo [`ParOuImpar.java`].
+
+---
+
+🔧 **Ferramentas e Tecnologias**
+- **Linguagem:** Java
+- **Entrada de dados:** `JOptionPane.showInputDialog()`
+- **Operador aritmético:** `%` para verificar o resto da divisão por 2.
+
+---
+
+📚 **Conceitos Aprendidos**
+- Uso da classe `JOptionPane` para capturar entrada do usuário de forma gráfica.
+- Conversão de tipos de dados com `Integer.parseInt()`.
+- Verificação de condições utilizando estruturas condicionais (`if-else`).
+- Operador de módulo (`%`) para determinar paridade.
+
+---
+
+🛠️ **Instruções para Execução**
+1. Certifique-se de ter o **Java Development Kit (JDK)** instalado.
+2. Baixe o código-fonte do arquivo [`ParOuImpar.java`].
+3. Compile o programa utilizando o comando:
    ```bash
-   javac ParOuImpar.java
+   javac ParOuImpar.java   
 4. Execute o programa com o comando:
    `java ParOuImpar`
-5. Insira um número quando solicitado e veja o resultado no console.
-
-📚 Conceitos Aplicados
-
-Entrada de dados com GUI: `JOptionPane.showInputDialog()`
-   * Conversão de Tipos: `Integer.parseInt()`
-   * Estrutura Condicional: `if-else`
-   * Operador Aritmético: Módulo (`%`)
-   * Exibição de Resultados: `System.out.println()`
+5. Insira um número na caixa de diálogo exibida.
+- O programa verificará se o número é par ou ímpar e exibirá o resultado no console.
+     
+💻 Exemplo de Execução Entrada:
+```java
+Digite o Número: 8
+O Número é Par
 
 
