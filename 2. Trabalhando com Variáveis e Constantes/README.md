@@ -43,6 +43,8 @@ O código para este desafio está disponível no arquivo [`TrabalhandocomVariave
 `java TrabalhandocomVariaveiseConstantes`
 5. Siga as instruções para inserir o nome, idade e altura quando solicitado.
 - O programa exibirá uma mensagem personalizada no console.
+  
+💻 Exemplo de Execução Entrada:
   ```java
   Nome: Maria
   Idade: 20
