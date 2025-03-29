@@ -22,7 +22,7 @@
 ---
 
 📂 **Localização do Código**
-O código completo deste desafio está disponível no arquivo [`ParOuImpar01.java`].
+O código completo deste desafio está disponível no arquivo [`ParOuImpar.java`].
 
 ---
 
@@ -31,21 +31,17 @@ O código completo deste desafio está disponível no arquivo [`ParOuImpar01.jav
 2. Navegue até a pasta onde está localizado o arquivo do código.
 3. Compile o programa no terminal com o comando:
    ```bash
-   javac ParOuImpar01.java
+   javac ParOuImpar.java
 4. Execute o programa com o comando:
-   java ParOuImpar01
+   `java ParOuImpar`
 5. Insira um número quando solicitado e veja o resultado no console.
 
 📚 Conceitos Aplicados
 
-Entrada de dados com GUI: JOptionPane.showInputDialog()
-
-   * Conversão de Tipos: Integer.parseInt()
-
-   * Estrutura Condicional: if-else
-
-   * Operador Aritmético: Módulo (%)
-
-   * Exibição de Resultados: System.out.println()
+Entrada de dados com GUI: `JOptionPane.showInputDialog()`
+   * Conversão de Tipos: `Integer.parseInt()`
+   * Estrutura Condicional: `if-else`
+   * Operador Aritmético: Módulo (`%`)
+   * Exibição de Resultados: `System.out.println()`
 
 
