@@ -40,7 +40,7 @@ O código para este desafio está disponível no arquivo [`TrabalhandocomVariave
    ```bash
    javac TrabalhandocomVariaveiseConstantes.java
 4. Execute o programa com:
-java TrabalhandocomVariaveiseConstantes02
+`java TrabalhandocomVariaveiseConstantes`
 5. Siga as instruções para inserir o nome, idade e altura quando solicitado.
 - O programa exibirá uma mensagem personalizada no console.
   ```java
