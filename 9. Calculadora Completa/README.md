@@ -15,6 +15,7 @@
 
 📂 **Onde Encontrar o Código**
 O código para este desafio está disponível no arquivo [`CalculadoraCompleta.java`].
+
 ---
 
 🔧 **Ferramentas e Tecnologias**
@@ -48,7 +49,7 @@ O código para este desafio está disponível no arquivo [`CalculadoraCompleta.j
     * Continue realizando operações ou encerre digitando n.
 
 💻 Exemplo de Execução Entrada válida:
-
+```java
 Número 1: 10
 Escolha uma operação (+, -, *, /): +
 Número 2: 5
