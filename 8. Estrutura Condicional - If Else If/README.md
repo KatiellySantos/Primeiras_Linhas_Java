@@ -18,6 +18,7 @@
 
 📂 **Onde Encontrar o Código**
 O código para este desafio está disponível no arquivo [`EstruturaCondicional_If_Else_If.java`].
+
 ---
 
 🔧 **Ferramentas e Tecnologias**
@@ -49,7 +50,7 @@ O código para este desafio está disponível no arquivo [`EstruturaCondicional_
     * Caso contrário, será exibida uma mensagem de erro.
 
 💻 Exemplo de Execução Entrada válida:
-
+```bash
 Digite sua idade: 25
 Você é um Adulto!
 
